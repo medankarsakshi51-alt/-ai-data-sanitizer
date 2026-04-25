@@ -1,5 +1,9 @@
 # 🪄 AI-Powered Data Sanitizer
-A professional Streamlit app that uses Pandas for fast global cleaning and Mistral-7B AI for custom data tasks.
+here is  professional Streamlit app that uses Pandas for fast global cleaning and Mistral-7B AI for custom data tasks
+# [🚀 Click Here to Launch the Live AI Data Sanitizer](https://tubrlqfhe4ya5w3f9vizdb.streamlit.app/)
+
+---
+.
 
 ## Features
 - **Global Auto-Clean**: One-click fix for dates, currency, and casing.
