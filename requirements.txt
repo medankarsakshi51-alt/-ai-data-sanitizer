@@ -2,3 +2,6 @@ streamlit
 pandas
 openpyxl
 requests
+fastapi[standard]
+uvicorn[standard]
+
